@@ -18,7 +18,7 @@ A proposta é manter os modelos e os dados sob controle da infraestrutura local,
 
 | Componente | Responsabilidade | Situação |
 |---|---|---|
-| Ubuntu Server 24.04 LTS | Sistema operacional da máquina virtual | Em implantação |
+| Ubuntu Server 26.04.1 LTS | Sistema operacional da máquina virtual | Em implantação |
 | Docker Engine e Docker Compose | Execução e gerenciamento dos serviços | Planejado |
 | Ollama | Execução local dos modelos de IA | Planejado |
 | Open WebUI | Interface web para interação com os modelos | Planejado |
@@ -31,7 +31,7 @@ A implantação está sendo realizada em uma máquina virtual no Oracle VirtualB
 
 Configuração inicial planejada para a VM:
 
-- Sistema: Ubuntu Server 24.04 LTS
+- Sistema: Ubuntu Server 26.04.1 LTS
 - Memória RAM: 8 GB
 - Processadores virtuais: 2 vCPUs
 - Disco virtual: aproximadamente 100 GB
