@@ -14,7 +14,7 @@ A solução será executada em uma máquina virtual Ubuntu Server hospedada no V
 
 ## Componentes
 
-### Ubuntu Server
+### Ubuntu Server 26.04.1 LTS
 
 Sistema operacional da máquina virtual e base para os serviços.
 
