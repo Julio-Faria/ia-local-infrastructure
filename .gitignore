@@ -1,0 +1,48 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+secrets/
+
+# Local databases, model data and persistent volumes
+data/
+models/
+ollama/
+open-webui/
+volumes/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and runtime files
+*.log
+logs/
+tmp/
+*.pid
+
+# Backups and archives
+*.bak
+*.backup
+*.tar
+*.tar.gz
+*.zip
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
