@@ -5,7 +5,7 @@ Este documento acompanha as etapas do laboratório. O estado deve ser atualizado
 ## Preparação da máquina virtual
 
 - [x] Criar VM no Oracle VirtualBox.
-- [x] Definir Ubuntu Server 24.04 LTS como sistema operacional de destino.
+- [x] Definir Ubuntu Server 26.04.1 LTS como sistema operacional de destino.
 - [x] Configurar 8 GB de RAM, 2 vCPUs e disco virtual de aproximadamente 100 GB.
 - [x] Configurar adaptador de rede em modo Bridge.
 - [ ] Concluir a instalação do Ubuntu Server.
